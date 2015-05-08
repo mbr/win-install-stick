@@ -20,5 +20,5 @@ code-block:: sh
 Credit due
 ----------
 
-* PZt on ``#windows`` at http://freenode.net
+* PZt at ``##windows`` on http://freenode.net
 * https://serverfault.com/questions/6714/how-to-make-windows-7-usb-flash-install-media-from-linux#answer-167060
