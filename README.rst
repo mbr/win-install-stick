@@ -22,3 +22,4 @@ Credit due
 
 * PZt at ``##windows`` on http://freenode.net
 * https://serverfault.com/questions/6714/how-to-make-windows-7-usb-flash-install-media-from-linux#answer-167060
+* http://www.freenode-windows.org/resources/multi-boot/troubleshooting-the-boot-process
