@@ -1,8 +1,8 @@
 win-install-stick
 =================
 
-Shell script to create a bootable USB stick to install Windows from a .iso file
-without having to have another Windows machine nearby.
+Shell script to create a bootable USB stick to install Windows from an .iso
+file without another Windows machine.
 
 Tested with Windows 7 (and an ISO-file from DreamSpark).
 
