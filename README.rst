@@ -12,7 +12,7 @@ Example
 
 Assuming your usb stick is ``/dev/sdi``:
 
-code-block:: sh
+.. code-block:: sh
 
   sudo ./mkwinstick.sh /dev/sdi en_windows_7_professional_n_with_sp1_x64_dvd_u_677207.iso
 
